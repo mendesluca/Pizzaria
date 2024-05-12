@@ -18,10 +18,10 @@ Este é um projeto de uma pizzaria online desenvolvido utilizando HTML, PHP, CSS
 2. Com o Xampp aberto, de um start no Apache e no MySql
 3. Clone o repositorio atual para seu pc, e o copie para a pasta C:\xampp\htdocs
 4. Abra o navegador de sua preferencia e digite "localhost/phpmyadmin"
-5. Na tela que se abre, na parte esqueda em cima da lista, tera um botão escrito novo
-6. Vá em Criar banco de dados -> Nome do banco de dados e o nomeie como pizza_db
+5. Na tela que se abre, no lado esquerdo em cima da lista, tera um botão escrito novo
+6. Vá em Criar banco de dados -> Nome do banco de dados e o nomeie como "pizza_db"
 7. Na nova tela, clique no botão importar, localizado na barra de navegação na parte superior
-8. Dentro de importar vá em escolher arquivo e edcolha pizza_db.sql (arquivo está junto das telas)
+8. Dentro de importar vá em escolher arquivo e escolha "pizza_db.sql" (arquivo está junto das telas)
 9. Com o banco de dados criado, digite no navegador "localhost/nomedoprojeto"
     
 ## Como acessar a tela de admin:
